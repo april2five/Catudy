@@ -1,0 +1,347 @@
+nav {
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  top: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.9rem 1.5rem;
+}
+
+
+
+
+
+
+.headline1 h2 {
+ 	 color: #fff;
+ 	 font-size: 13.5rem;
+   font-weight: 500;
+   position: absolute;
+   margin: 0 auto;
+   width: 100%;
+   margin-top: -6.1rem;
+}
+.headline2 {
+   top: 6.8rem;
+   font-size: clamp(8.5rem, 22vw, 17rem);
+   font-weight: 700;
+}
+.headline3 {
+   top: 4rem;
+   font-size: 9.5rem;
+   font-size: clamp(6rem, 20vw, 17rem);
+   font-weight: 700;
+}
+
+
+
+
+
+
+section .section-one {
+  min-height: 83vh;
+  position: relative;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+
+
+
+
+
+section .section-two img {
+   max-width: 192%;
+   margin: -100% -20% 0rem ;
+}
+.two-headline {
+  font-size: 6.3rem;;
+  line-height: 90%;
+  margin-top: 8%;
+
+}
+.two-description {
+  font-size: 2.5rem;
+  line-height: 2.7rem;
+  letter-spacing: 0.1rem;
+  margin: 4% 0 5% 0;
+}
+
+
+
+
+
+
+.three-card {
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  max-width: 78%;
+  margin: 0 auto;
+}
+.card-border {
+  width: 22.5rem;
+  height: 28.5rem;
+}
+.card-surface {
+  width: 20.5rem;
+  height: 26.5rem;
+}
+.card-bg {
+  width: 20.5rem;
+  height: 26.5rem;
+}
+.card1 {
+  margin: 1rem;
+  transform: translateY(0rem) rotate(3deg);
+}
+.card1 .card-title {
+  font-size: 4.1rem;
+  margin-top: 55%;
+}
+.card1:hover .card-title {
+  font-size: 14rem;
+}
+.card1:hover .card-surface {
+  width: 22.5rem;
+  height: 28.5rem;
+}
+.card1:hover .card-bg {
+  width: 22.5rem;
+  height: 28.5rem;
+}
+.card2 {
+  margin: 1rem;
+  transform: translateY(0rem) rotate(-2deg);
+}
+.card2:hover {
+  transform: translateY(0rem) rotate(0deg);
+}
+.card2 .card-title {
+  font-size: 4.1rem;
+  margin-top: 55%;
+}
+.card2:hover .card-title {
+  font-size: 9rem;
+}
+.card2:hover .card-surface {
+  width: 22.5rem;
+  height: 28.5rem;
+}
+.card2:hover .card-bg {
+  width: 22.5rem;
+  height: 28.5rem;
+}
+.card3 {
+  margin: 1rem;
+  transform: translateY(0rem);
+}
+.card3:hover {
+  transform: translateY(0rem) rotate(-2deg);
+}
+.card3 .card-title {
+  font-size: 4.1rem;
+  margin-top: 55%;
+}
+.card3:hover .card-title {
+  font-size: 7.3rem;
+}
+.card3:hover .card-surface {
+  width: 22.5rem;
+  height: 28.5rem;
+}
+.card3:hover .card-bg {
+  width: 22.5rem;
+  height: 28.5rem;
+}
+.card-content {
+  font-size: 2.2rem;
+  padding: 0 1.5rem;
+}
+
+
+
+
+
+section .section-three {
+  min-height: 70vh;
+  position: relative;
+  display: grid;
+  place-items: center;
+  background-color: #4F6062;
+  z-index: 10;
+}
+#scroll {
+  margin-top: -5.5rem;;
+}
+#scroll.second-scroll {
+  margin-top: -8.6rem;
+}
+#scroll.third-scroll {
+  margin-top: -8.6rem;
+}
+#scroll.fourth-scroll {
+  margin-top: -8.7rem;
+}
+.scroll {
+  .textbox {
+    font-size: 5.5rem;
+  }
+}
+
+
+
+
+
+
+
+.logo-steam {
+  position: relative;
+  top: 9rem;
+  right: 28%;
+}
+.subpic-logo {
+  transform: scale(54%);
+  filter: drop-shadow(12px 12px 20px rgba(255,255,255,0.6));
+}
+
+
+
+
+
+
+
+section .section-four {
+  top: 0rem;
+}
+.section-four .two-headline {
+  font-size: 5.5rem;
+  line-height: 90%;
+}
+.section-four .two-description {
+  padding: 1% 5% 5%;
+  font-size: 2.5rem;
+  line-height: 2.7rem;
+}
+.pass-box {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 10%;
+}
+.wavebox.wave-daily, .wavebox.wave-monthly {
+  width: 610px;
+  height: 480px;
+  padding: 2rem 2rem;
+  margin: 1rem;
+}
+.pass-title {
+  font-size: 3.8rem;
+  margin-top: 1.5rem;
+  margin-bottom: -0.5rem;
+}
+.pass-content {
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+}
+
+
+
+
+
+
+
+
+section .section-six {
+  min-height: 40vh;
+  position: relative;
+  background-color: #E2DED8;
+  z-index: 50;
+}
+.cat-gallery {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 0rem;
+  margin: 2.5rem auto;
+}
+.cat-gallery .two-headline {
+  color: #9C6E58;
+  font-size: 5.5rem;
+}
+.cat-gallery .two-description {
+  font-size: 2.5rem;
+  line-height: 2.7rem;
+  padding: 0 5% 5%;
+}
+section .section-grid {
+  padding: 0% 5% 10%;
+  display: grid;
+  gap: 0.8rem;
+}
+.grid-content span {
+  font-size: 1.8rem;
+}
+
+
+
+
+
+
+
+
+.section-seven .footer-container {
+  background-color: white;
+  position: absolute;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  min-height: 40vh;
+  width: 100%;
+  margin: 0 auto;
+}
+.section-seven .footer-container img {
+  position: relative;
+  bottom: -6em;
+  opacity: 0.9;
+  width: 100%;
+}
+.footer-container .two-description {
+  font-size: 1.3rem;
+  line-height: 1.7rem;
+  padding-top: 25%;
+}
+.headline-footer h3 {
+	color: #fff;
+  font-weight: 600;
+	position: absolute;
+  margin: 0 auto;
+  width: 100%;
+  line-height: 6rem;
+  letter-spacing: -0.5rem;
+  padding: 0;
+  margin-top: 15%;
+  font-size: 6.6em;
+}
+
+
+
+
+
+
+.box_astronaut{
+    top: 30%;
+    right: 0%;
+}
+.box_astronaut {
+  width: 210px;
+}
+.box_coffee {
+  width: 62px;
+  top: -15%;
+  left: 20%;
+}
