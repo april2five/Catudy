@@ -12,6 +12,7 @@ body {
   overflow-x: hidden;
   font-size: 1.1rem;
   background-color: white;
+  width: 100%;
 }
 
 a {
@@ -273,7 +274,7 @@ section .section-two {
 }
 section .section-two .cat-desktop img {
   opacity: 0.8;
-  max-width: 88%;
+  max-width: 92%;
   margin: -24% auto 0rem ;
 }
 .cat-mobile {

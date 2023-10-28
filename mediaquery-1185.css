@@ -22,10 +22,10 @@
 
 
 
-
-section .section-two img {
-   max-width: 104%;
-   margin: -30% -26% 0rem ;
+section .section-two .cat-desktop img {
+  opacity: 0.8;
+  max-width: 110%;
+  margin: -34% -30% 0% -30% ;
 }
 .two-headline {
   font-size: 8.4rem;;

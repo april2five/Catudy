@@ -53,9 +53,10 @@ section .section-one {
 
 
 
-section .section-two img {
-   max-width: 152%;
-   margin: -70% -20% 0rem ;
+section .section-two .cat-desktop img {
+  opacity: 0.8;
+  max-width: 130%;
+  margin: -54% -40% 0% -40% ;
 }
 .two-headline {
   font-size: 6.3rem;;
