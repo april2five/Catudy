@@ -218,14 +218,15 @@ section .section-four {
   margin-bottom: 10%;
 }
 .wavebox.wave-daily, .wavebox.wave-monthly {
-  width: 610px;
+  width: 520px;
   height: 470px;
-  padding: 1rem 3rem;
+  padding: 2rem 3rem 1rem;
   margin: 1rem;
 }
 .pass-title {
   font-size: 3.9rem;
-  margin-top: 1rem;
+  margin-top: 1.3rem;
+  margin-bottom: -0.7rem;
 }
 .pass-content {
   font-size: 1.6rem;
@@ -289,20 +290,20 @@ section .section-grid {
   width: 100%;
 }
 .footer-container .two-description {
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   line-height: 1.7rem;
-  padding-top: 15%;
-  margin-bottom: -7%;
+  padding-top: 20%;
+  margin-bottom: -10%;
 }
 .headline-footer h3 {
 	color: #fff;
-  font-size: clamp(6rem, 20vw, 15rem);
+  font-size: clamp(5rem, 18vw, 14rem);
   font-weight: 600;
 	position: absolute;
-  margin: 0 auto;
+  margin: 10% auto 0%;
   width: 100%;
-  line-height: 8.5rem;
-  letter-spacing: -0.5rem;
+  line-height: 7.5rem;
+  letter-spacing: -0.2rem;
   padding: 0 10%;
 }
 
@@ -312,12 +313,12 @@ section .section-grid {
 
 
 .box_astronaut{
-    top: -16%;
+    top: -36%;
     right: 1%;
 }
 .box_astronaut {
-  width: 310px;
+  width: 260px;
 }
 .box_coffee {
-  width: 90px;
+  width: 84px;
 }

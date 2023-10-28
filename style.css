@@ -249,7 +249,7 @@ section .section-one {
    }
  }
  .moveup {
-   animation: moveup 1300ms ease-in;
+   animation: moveup 1100ms ease-in;
    animation-delay: 0ms;
  }
 
@@ -271,10 +271,13 @@ section .section-two {
   text-align: center;
   background-color: #E2DED8;
 }
-section .section-two img {
+section .section-two .cat-desktop img {
   opacity: 0.8;
   max-width: 88%;
   margin: -24% auto 0rem ;
+}
+.cat-mobile {
+  display: none;
 }
 .two-headline-box {
   width: 96%;

@@ -183,10 +183,10 @@ section .section-four {
     right: 6%;
 }
 .box_astronaut {
-  width: 440px;
+  width: 400px;
 }
 .box_coffee {
-  width: 130px;
+  width: 120px;
 }
 
 
@@ -194,6 +194,6 @@ section .section-four {
 
 
 .footer-container .two-description {
-  padding-top: 2%;
-  margin-bottom: -4%;
+  padding-top: 6%;
+  margin-bottom: -2%;
 }
