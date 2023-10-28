@@ -22,7 +22,7 @@ nav {
 
 .headline1 h2 {
  	 color: #fff;
- 	 font-size: 12rem;
+ 	 font-size: 11rem;
    font-weight: 500;
    position: absolute;
    margin: 0 auto;
@@ -31,13 +31,13 @@ nav {
 }
 .headline2 {
    top: 5.8rem;
-   font-size: clamp(7.4rem, 16vw, 17rem);
+   font-size: clamp(6.5rem, 14vw, 16rem);
    font-weight: 700;
 }
 .headline3 {
    top: 4rem;
    font-size: 9.5rem;
-   font-size: clamp(5.0rem, 17vw, 17rem);
+   font-size: clamp(5.0rem, 15vw, 17rem);
    font-weight: 700;
 }
 
@@ -66,18 +66,18 @@ section .section-two .cat-mobile {
    display: block;
 }
 .cat-mobile img {
-   width: 96%;
+   width: 94%;
    margin-top: -40%;
 }
 .two-headline {
-  font-size: 5.8rem;;
+  font-size: 5.1rem;;
   line-height: 90%;
   margin-top: 8%;
 
 }
 .two-description {
-  font-size: 2.4rem;
-  line-height: 2.6rem;
+  font-size: 2.3rem;
+  line-height: 2.4rem;
   letter-spacing: 0.1rem;
   margin: 4% 0 5% 0;
 }
@@ -107,12 +107,12 @@ section .section-two .cat-mobile {
   height: 25rem;
 }
 .card1 {
-  margin: 1rem;
+  margin: 1rem 0rem;
   transform: translateY(0rem) rotate(3deg);
 }
 .card1 .card-title {
   font-size: 4.1rem;
-  margin-top: 19%;
+  margin-top: 42%;
 }
 .card1:hover .card-title {
   font-size: 14rem;
@@ -126,7 +126,7 @@ section .section-two .cat-mobile {
   height: 27rem;
 }
 .card2 {
-  margin: 1rem;
+  margin: 1rem 0rem;;
   transform: translateY(0rem) rotate(-2deg);
 }
 .card2:hover {
@@ -134,7 +134,7 @@ section .section-two .cat-mobile {
 }
 .card2 .card-title {
   font-size: 4.1rem;
-  margin-top: 49%;
+  margin-top: 42%;
 }
 .card2:hover .card-title {
   font-size: 7.6rem;
@@ -148,7 +148,7 @@ section .section-two .cat-mobile {
   height: 27rem;
 }
 .card3 {
-  margin: 1rem;
+  margin: 1rem 0rem;;
   transform: translateY(0rem);
 }
 .card3:hover {
@@ -156,7 +156,7 @@ section .section-two .cat-mobile {
 }
 .card3 .card-title {
   font-size: 4.1rem;
-  margin-top: 49%;
+  margin-top: 42%;
 }
 .card3:hover .card-title {
   font-size: 6.5rem;
@@ -213,10 +213,10 @@ section .section-three {
 .logo-steam {
   position: relative;
   top: 9rem;
-  right: 36%;
+  right: 44%;
 }
 .subpic-logo {
-  transform: scale(50%);
+  transform: scale(42%);
   filter: drop-shadow(12px 12px 20px rgba(255,255,255,0.6));
 }
 
@@ -230,7 +230,7 @@ section .section-four {
   top: 0rem;
 }
 .section-four .two-headline {
-  font-size: 5.4rem;
+  font-size: 5.2em;
   line-height: 90%;
 }
 .section-four .two-description {
@@ -239,7 +239,7 @@ section .section-four {
   line-height: 2.3rem;
 }
 .pass-box {
-  width: 90%;
+  width: 98%;
   margin: 0 auto;
   display: flex;
   justify-content: center;
@@ -247,7 +247,7 @@ section .section-four {
   margin-bottom: 10%;
 }
 .wavebox.wave-daily, .wavebox.wave-monthly {
-  width: 94%;
+  width: 96%;
   height: 480px;
   padding: 2rem 2rem;
   margin: 1rem;
@@ -283,7 +283,7 @@ section .section-six {
 }
 .cat-gallery .two-headline {
   color: #9C6E58;
-  font-size: 5.4rem;
+  font-size: 5.1rem;
 }
 .cat-gallery .two-description {
   font-size: 2.1rem;
@@ -323,17 +323,17 @@ section .section-grid {
   width: 100%;
 }
 .footer-container .two-description {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.7rem;
   padding-top: 30%;
 }
 .headline-footer h3 {
 	color: #fff;
-  font-weight: 500;
+  font-weight: 600;
 	position: absolute;
   margin: 0 auto;
   width: 100%;
-  line-height: 6rem;
+  line-height: 5rem;
   letter-spacing: -0.2rem;
   padding: 4%;
   margin-top: 15%;
