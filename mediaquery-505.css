@@ -70,7 +70,7 @@ section .section-two .cat-mobile {
    margin-top: -40%;
 }
 .two-headline {
-  font-size: 5.1rem;;
+  font-size: 5rem;;
   line-height: 90%;
   margin-top: 8%;
 
@@ -213,10 +213,10 @@ section .section-three {
 .logo-steam {
   position: relative;
   top: 9rem;
-  right: 44%;
+  right: 52%;
 }
 .subpic-logo {
-  transform: scale(42%);
+  transform: scale(44%);
   filter: drop-shadow(12px 12px 20px rgba(255,255,255,0.6));
 }
 
@@ -230,7 +230,7 @@ section .section-four {
   top: 0rem;
 }
 .section-four .two-headline {
-  font-size: 5.2em;
+  font-size: 5em;
   line-height: 90%;
 }
 .section-four .two-description {
@@ -283,7 +283,7 @@ section .section-six {
 }
 .cat-gallery .two-headline {
   color: #9C6E58;
-  font-size: 5.1rem;
+  font-size: 5rem;
 }
 .cat-gallery .two-description {
   font-size: 2.1rem;
