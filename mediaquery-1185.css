@@ -25,7 +25,7 @@
 section .section-two .cat-desktop img {
   opacity: 0.8;
   max-width: 110%;
-  margin: -34% -30% 0% -30% ;
+  margin: -38% -30% 0% -30% ;
 }
 .two-headline {
   font-size: 8.4rem;;
@@ -178,15 +178,36 @@ section .section-four {
 
 
 
+.footer-container .two-description {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 5%;
+}
+.headline-footer h3 {
+	color: #fff;
+  font-size: clamp(6rem, 11.6vw, 15rem);
+  font-weight: 600;
+	position: absolute;
+  margin: 0 auto;
+  width: 100%;
+  line-height: 10rem;
+  letter-spacing: -0.3rem;
+}
+
+
+
+
+
+
 .box_astronaut{
     top: -16%;
     right: 6%;
 }
 .box_astronaut {
-  width: 400px;
+  width: 380px;
 }
 .box_coffee {
-  width: 120px;
+  width: 104px;
 }
 
 

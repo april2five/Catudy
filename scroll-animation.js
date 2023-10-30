@@ -35,7 +35,7 @@ window.addEventListener('scroll', () => {
 // Some random colors
 const colors = ["#9C6E58", "#4F6062", "#E2DED8"];
 
-const numBalls = 40;
+const numBalls = 26;
 const balls = [];
 
 for (let i = 0; i < numBalls; i++) {
