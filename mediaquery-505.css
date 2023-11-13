@@ -318,20 +318,14 @@ section .section-grid {
 
 
 .section-seven .footer-container {
-  background-color: white;
-  position: absolute;
-  display: grid;
-  place-items: center;
-  text-align: center;
   min-height: 40vh;
-  width: 100%;
-  margin: 0 auto;
+  background-color: #4F6062;
 }
-.section-seven .footer-container img {
-  position: relative;
-  bottom: -6em;
+.section-seven .footer-container .backcat img {
   opacity: 1;
   width: 100%;
+  background-color: #4F6062;
+  padding-top: 3rem;
 }
 .footer-container .two-description {
   font-size: 1.1rem;
@@ -365,13 +359,12 @@ section .section-grid {
 }
 .box_coffee {
   width: 60px;
-  top: -15%;
-  left: 25%;
+  top: 10%;
+  left: 30%;
 }
-.ball {
-
+.box_coffee img {
+  background-color: none;
 }
-
 
 
 
@@ -390,7 +383,7 @@ input[type="email"] {
    padding: 15px 24px;
    border-radius: 30px;
    color: #9C6E58;
-   font-size: 1.1rem;
+   font-size: 1rem;
    border: 1px solid #8f94a1;
 }
 input::placeholder {
@@ -401,7 +394,7 @@ input::placeholder {
    outline: none;
    background: transparent;
    background-color: #F2988C;
-   font-size: 1.1rem;
+   font-size: 1rem;
    padding: 15px 25px;
    color: white;
    border-radius: 30px;
